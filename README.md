@@ -22,10 +22,12 @@ It then adds everything to a dataframe and exports it as a .csv file.
 
 As mentioned above, some of the names are formatted [Name] / [Brand] or [Name] by [Brand], so I had to get clever with a Regular Expression.
 
-**Note:** *This can be trimmed down as I plan on scraping for ONLY sprayable body fragrances. I also want capture the gender, but was having a few issues in Python for some reason; not so much the RegEx. Despite Python knowing there was a group for the gender, it would not capture it for some reason. It worked in the testers I used (Debuggex, Regex101))*
 
 
 #### Below is the Regular Expression used to capture certain pieces within the extracted "name-out-brand" element. 
+
+**Note:** *This can be trimmed down as I plan on scraping for ONLY sprayable body fragrances. I also want capture the gender, but was having a few issues in Python for some reason; not so much the RegEx. Despite Python knowing there was a group for the gender, it would not capture it for some reason. It worked in the testers I used (Debuggex, Regex101))*
+
 ``` regex.compile(r"^(?:(Men's|Ladies|Unisex)\s+)?(?:-\s*)?([^/]+?)(?=\s?Spray\s?|\s*/|\s+by|\s+\(|\s+\d+\.\d+|\s+(?:Aftershave|Bath and Shower Products|Body Spray|Car Diffuser|Cleansers|Deodorant|Diffuser|Eau De Parfum|Eau De Cologne|Eau De Toilette|Extrait de Parfum|Eau de Cologne|Eau de Parfum|Eau de Toilette|Extrait De Parfum|Free Water|Gift Set|Lotion & Oils|Lotions & Creams|Mist|Oil & Serums|Perfume Oil|Room Fragrance|Room Spray|Scented Candle|Scented Cards|Scrubs, Foams & Exfoliants|Shower Gels|Soap|Solid Parfum|Tools|Wash|EDP|EDT|EDC|Cologne|Shower Gel|Shampoo / Shower Gel)|$)|\((m|u|w)\)", regex.IGNORECASE) ```
 - ``` (?:(Men's|Ladies|Unisex)\s+)? ``` and ``` \((m|u|w)\) ``` 
   - Captures any instance of "Men's", "Ladies", or "Unisex" at the start of the string.
