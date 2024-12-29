@@ -38,7 +38,7 @@ As mentioned above, some of the names are formatted [Name] / [Brand] or [Name] b
   - Searches the string and stops at a '/' when being used to separate the [Name] / [Brand].
 - ``` (?=\s?Spray\s?|\s*/|\s+by|\s+\(|\s+\d+\.\d+|\s+(?:Aftershave|Bath and Shower Products|Body Spray|...|EDP|EDT|EDC|Cologne|Shower Gel|Shampoo / Shower Gel)|$) ``` *(added an elipses in the middle because this one is long)*
   - Didn't want to include "Spray" in the name so I am using a positive lookahead to essentially stop the capture once it finds "Spray".
-  - Does the same as the above for "by" *(could also probably add the '/' from the part before)*, decimal values *(e.g. sizes like 3.3 oz)*, any of the fragrance types found on the site's fragrance type filters section. I also added a few of my own like EDP, EDT, etc. that can be found in the name.
+  - Does the same as the above for "by" *(could also probably add the '/' from the part before instead of doing it where it is now)*, decimal values *(e.g. sizes like 3.3 oz)*, any of the fragrance types found on the site's fragrance type filters section. I also added a few of my own like EDP, EDT, etc. that can be found in the name.
  
 
 ## find_notes([driver], [name_col]):
