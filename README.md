@@ -1,4 +1,4 @@
-# Fragrance Scraper (Jomashop)
+# (WIP) Fragrance Scraper (Jomashop)
 
 Web Scraper made in Python with Selenium to extract results from the fragrance section on Jomashop.com, filter the results down to fragrances, then search those fragrances on a site like Parfumo to retrieve the notes and accords.
 
