@@ -1,61 +1,61 @@
-BRAND,NAME,TYPE,RETAIL_PRICE,DISCOUNT,COUPON,PRICE_AFTER_COUPON,PRICE
-CREED,Aventus,EDP,$495.00,47% OFF,$40.00,$259.99,$299.99
-FRAGRANCE WORLD,French Avenue Liquid Brun,EDP,$80.00,50% OFF,,$215.99,$39.99
-GIORGIO ARMANI,Emporio Stronger With You Intensely,EDP,$125.00,21% OFF,,$29.99,$98.95
-PARFUMS DE MARLY,Delina,EDP,$375.00,10% OFF,,$89.99,$337.50
-BOND NO.9,Greenwich Village,EDP,$460.00,53% OFF,$20.00,$29.99,$235.99
-ARMAF,Club De Nuit Untold,EDP,$125.00,76% OFF,$20.00,,$49.99
-VALENTINO GARAVANI,Uomo Born In Roma Coral Fantasy,EDT,$125.00,32% OFF,,,$84.99
-AZZARO,The Most Wanted Parfum,Parfum,$138.00,28% OFF,,,$99.99
-TIZIANA TERENZI,Kirke,Extrait de Parfum,$295.00,69% OFF,$20.00,,$109.99
-AZZARO,The Most Wanted,EDP,$120.00,28% OFF,,,$86.99
-VALENTINO GARAVANI,Donna Born In Roma,EDP,$165.00,25% OFF,,,$123.75
-VIKTOR & ROLF,Spicebomb Extreme,EDP,$140.00,36% OFF,,,$88.99
-TOM FORD,Oud Wood,EDP,$445.00,56% OFF,,,$193.99
-LATTAFA,Khamrah,EDP,$80.00,63% OFF,,,$29.99
-YVES SAINT LAURENT,Myslf,EDP,$155.00,29% OFF,,,$109.99
-MANCERA,Intense Cedrat Boise,EDP,$200.00,50% OFF,,,$99.99
-MANCERA,Instant Crush,EDP,$190.00,53% OFF,,,$89.99
-BURBERRY,Goddess,EDP,$168.00,38% OFF,,,$105.00
-VERSACE,Eros,EDP,$130.00,54% OFF,,,$59.99
-VERSACE,Eros Flame,EDP,$115.00,49% OFF,,,$58.99
-CREED,Millesime Imperial,EDP,$470.00,53% OFF,,,$219.95
-BURBERRY,Her,EDP,$168.00,47% OFF,,,$88.99
-ARMAF,Club De Nuit Intense,EDT,$95.00,73% OFF,,,$25.99
-XERJOFF,V Erba Pura,EDP,$335.00,45% OFF,,,$185.00
-PRADA,Paradoxe Intense,EDP,$165.00,30% OFF,,,$114.99
-VERSACE,Dylan Blue,EDT,$105.00,52% OFF,,,$49.99
-CREED,Green Irish Tweed,EDP,$470.00,51% OFF,,,$229.00
-VERSACE,Bright Crystal,EDT,$110.00,55% OFF,,,$49.99
-CREED,Silver Mountain,EDP,$470.00,53% OFF,,,$219.00
-MONTBLANC,Explorer,EDP,$125.00,62% OFF,,,$47.99
-TOM FORD,Ombre Leather,Eau de Parfum,$240.00,38% OFF,,,$149.99
-CREED,Aventus,EDP,$495.00,54% OFF,,,$229.99
-YVES SAINT LAURENT,Libre Intense,EDP,$155.00,25% OFF,,,$116.25
-JO MILANO,Game Of Spades Full-House Parfum,Parfum,$220.00,61% OFF,,,$84.99
-YVES SAINT LAURENT,Lanuit De Lhomme,EDT,$110.00,36% OFF,,,$69.99
-JO MILANO,Game Of Spades Wildcard Parfum,Parfum,$220.00,73% OFF,,,$59.99
-KILIAN,Angels Share,EDP,$275.00,40% OFF,,,$164.99
-PRADA,Luna Rossa Black,EDP,$140.00,36% OFF,,,$89.99
-GIVENCHY,Gentleman Reserve Privee,EDP,$137.00,32% OFF,,,$92.99
-RAYHAAN,Rayhaan Elixir,EDP,,40% OFF,$20.00,,$49.99
-YVES SAINT LAURENT,Babycat,EDP,$490.00,40% OFF,,,$293.99
-XERJOFF,1861 Naxos,EDP,$290.00,24% OFF,,,$220.00
-FRAGRANCE WORLD,Barakkat Rouge 540,Extrait de Parfum,$60.00,70% OFF,,,$17.99
-LATTAFA,Asad,EDP,$80.00,69% OFF,,,$24.99
-BOND NO.9,Nomad,EDP,$460.00,58% OFF,,,$191.99
-YVES SAINT LAURENT,Libre,EDP,$165.00,36% OFF,,,$104.99
-MANCERA,Cedrat Boise,EDP,$190.00,58% OFF,,,$79.00
-BURBERRY,Hero,EDP,$155.00,45% OFF,,,$84.99
-PRADA,Paradoxe,EDP,$152.00,28% OFF,,,$109.99
-ARMAF,Club De Nuit Intense,EDP,$200.00,78% OFF,,,$44.99
-JIMMY CHOO,I Want Choo,EDP,$136.00,57% OFF,,,$58.95
-DOLCE & GABBANA,The One Men,EDP,$110.00,32% OFF,,,$74.99
-GIORGIO ARMANI,Emporio Armani Stronger With You Absolutely,Eau De Parfum,$160.00,28% OFF,,,$115.00
-LATTAFA,Yara,EDP,$100.00,73% OFF,,,$26.99
-GISADA,Ambassador,EDP,$130.00,46% OFF,,,$69.99
-KILIAN,Angels' Share,EDP,$275.00,24% OFF,,,$209.99
-DIOR,Christian Dior Men's Sauvage Elixir,,$193.00,15% OFF,,,$163.99
-MAISON FRANCIS KURKDJIAN,Baccarat Rouge 540,EDP,$335.00,9% OFF,,,$304.99
-THOMAS KOSMALA,Apres L'Amour,EDP,$220.00,59% OFF,,,$89.95
-HUGO BOSS,Perfume Bottled Elixir Perfume,,$140.00,43% OFF,,,$79.99
+BRAND,NAME,TYPE,RETAIL_PRICE,DISCOUNT,PRICE,COUPON,PRICE_AFTER_COUPON,TESTER
+CREED,Aventus,EDP,$495.00,47% OFF,$299.99,$40.00 coupon,$259.99 after coupon,
+FRAGRANCE WORLD,French Avenue Liquid Brun,EDP,$80.00,50% OFF,$39.99,,,
+GIORGIO ARMANI,Emporio Stronger With You Intensely,EDP,$125.00,21% OFF,$98.95,,,
+BOND NO.9,Greenwich Village,EDP,$460.00,53% OFF,$235.99,$20.00 coupon,$215.99 after coupon,
+VALENTINO GARAVANI,Uomo Born In Roma Coral Fantasy,EDT,$125.00,32% OFF,$84.99,,,
+AZZARO,The Most Wanted Parfum,EDP,$138.00,28% OFF,$99.99,,,
+ARMAF,Club De Nuit Untold,EDP,$125.00,76% OFF,$49.99,$20.00 coupon,$29.99 after coupon,
+YVES SAINT LAURENT,Myslf,EDP,$155.00,29% OFF,$109.99,,,
+PARFUMS DE MARLY,Delina,Extrait de Parfum,$375.00,10% OFF,$337.50,,,
+TIZIANA TERENZI,Kirke,EDP,$295.00,69% OFF,$109.99,$20.00 coupon,$89.99 after coupon,
+AZZARO,The Most Wanted,EDP,$120.00,28% OFF,$86.99,,,
+LATTAFA,Khamrah,EDP,$80.00,63% OFF,$29.99,,,
+VIKTOR & ROLF,Spicebomb Extreme,EDP,$140.00,36% OFF,$88.99,,,
+MANCERA,Intense Cedrat Boise,EDP,$200.00,50% OFF,$99.99,,,
+VALENTINO GARAVANI,Donna Born In Roma,EDP,$165.00,25% OFF,$123.75,,,
+TOM FORD,Oud Wood,EDP,$445.00,56% OFF,$193.99,,,
+MANCERA,Instant Crush,EDP,$190.00,53% OFF,$89.99,,,
+VERSACE,Eros,EDP,$130.00,54% OFF,$59.99,,,
+BURBERRY,Goddess,EDP,$168.00,38% OFF,$105.00,,,
+VERSACE,Eros Flame,EDP,$115.00,49% OFF,$58.99,,,
+CREED,Millesime Imperial,EDP,$470.00,53% OFF,$219.95,,,
+BURBERRY,Her,EDP,$168.00,47% OFF,$88.99,,,
+XERJOFF,V Erba Pura,EDP,$335.00,45% OFF,$185.00,,,
+PRADA,Paradoxe Intense,EDT,$165.00,30% OFF,$114.99,,,
+ARMAF,Club De Nuit Intense,EDP,$95.00,73% OFF,$25.99,,,
+CREED,Green Irish Tweed,EDT,$470.00,51% OFF,$229.00,,,
+VERSACE,Dylan Blue,EDT,$105.00,52% OFF,$49.99,,,
+JO MILANO,Game Of Spades Full-House Parfum,EDP,$220.00,61% OFF,$84.99,,,
+VERSACE,Bright Crystal,Eau de Parfum,$110.00,55% OFF,$49.99,,,
+MONTBLANC,Explorer,EDP,$125.00,62% OFF,$47.99,,,
+TOM FORD,Ombre Leather,EDP,$240.00,38% OFF,$149.99,,,
+KILIAN,Angels Share,EDP,$275.00,40% OFF,$164.99,,,TESTER
+CREED,Silver Mountain,EDP,$470.00,53% OFF,$219.00,,,
+RAYHAAN,Rayhaan Elixir,Extrait de Parfum,,40% OFF,$49.99,$20.00 coupon,$29.99 after coupon,
+JO MILANO,Game Of Spades Wildcard Parfum,EDP,$220.00,73% OFF,$59.99,,,
+CREED,Aventus,EDP,$495.00,54% OFF,$229.99,,,TESTER
+FRAGRANCE WORLD,Barakkat Rouge 540,EDT,$60.00,70% OFF,$17.99,,,
+YVES SAINT LAURENT,Libre Intense,EDP,$155.00,25% OFF,$116.25,,,
+PRADA,Luna Rossa Black,EDP,$140.00,36% OFF,$89.99,,,
+YVES SAINT LAURENT,Lanuit De Lhomme,EDP,$110.00,36% OFF,$69.99,,,
+XERJOFF,1861 Naxos,EDP,$290.00,24% OFF,$220.00,,,
+BOND NO.9,Nomad,EDP,$460.00,58% OFF,$191.99,,,
+LATTAFA,Asad,EDP,$80.00,69% OFF,$24.99,,,
+MANCERA,Cedrat Boise,EDP,$190.00,58% OFF,$79.00,,,
+YVES SAINT LAURENT,Babycat,EDP,$490.00,40% OFF,$293.99,,,
+ARMAF,Club De Nuit Intense,EDP,$200.00,78% OFF,$44.99,,,
+YVES SAINT LAURENT,Libre,EDP,$165.00,36% OFF,$104.99,,,
+PRADA,Paradoxe,EDP,$152.00,28% OFF,$109.99,,,
+HUGO BOSS,Bottled Absolu Parfum Intense Parfum,,$110.00,23% OFF,$84.99,,,
+DOLCE & GABBANA,The One Men,EDP,$110.00,32% OFF,$74.99,,,
+JIMMY CHOO,I Want Choo,EDP,$136.00,57% OFF,$58.95,,,
+THOMAS KOSMALA,Apres L'Amour,EDP,$220.00,59% OFF,$89.95,,,
+DIOR,Christian Dior Men's Sauvage Elixir,EDP,$193.00,15% OFF,$163.99,,,
+LATTAFA,Yara,EDP,$100.00,73% OFF,$26.99,,,
+CREED,Creed Queen Of Silk,EDP,$445.00,42% OFF,$299.99,$40.00 coupon,$259.99 after coupon,
+KILIAN,Angels' Share,,$275.00,24% OFF,$209.99,,,
+BURBERRY,Hero,,$155.00,45% OFF,$84.99,,,
+MAISON FRANCIS KURKDJIAN,Baccarat Rouge 540,,$335.00,9% OFF,$304.99,,,
+FRENCH AVENUE X AROMATIX,Carnal Desire,,$60.00,,$59.99,,,
+GIORGIO ARMANI,Acqua di Gio Parfum,,$175.00,38% OFF,$108.99,,,
